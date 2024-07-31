@@ -1,0 +1,87 @@
+.footer-last .container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.footer-logo img {
+  width: 213px;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 700;
+  color: #222222;
+  margin-left: 150px;
+  margin-top: -50px;
+}
+
+.footer-logo p {
+  width: 326px;
+  line-height: 32px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #555555;
+  margin-top: 40px;
+  margin-left: 150px;
+}
+
+.footer-link {
+  margin-left: 500px;
+}
+
+.footer-link ul {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.footer-link h2 {
+  width: 96px;
+  line-height: 24px;
+  font-weight: 500;
+  font-size: 20px;
+  color: #222222;
+  margin-left: -500px;
+  margin-top: -20px;
+}
+
+.footer-link li {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 15px;
+  color: #222222;
+  margin-left: -500px;
+  margin-top: 5px;
+}
+
+.contact-content {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.contact-content a {
+  flex-direction: column;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #222222;
+  row-gap: 20px;
+}
+.contact-content a{
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+color: #222222;
+}
+
+.footer-contact h2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #222222;
+}
+
+.icons {
+  display: flex;
+  column-gap: 26px;
+}

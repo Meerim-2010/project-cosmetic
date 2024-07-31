@@ -1,0 +1,161 @@
+.products-content {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.products-content span {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  border-bottom: 1px solid black;
+  cursor: pointer;
+}
+
+.products-text h2 {
+  font-size: 56px;
+  font-weight: 500;
+  line-height: 70px;
+  color: #000000;
+  margin-bottom: 30px;
+}
+
+.products-text p {
+  width: 714px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  color: #555555;
+}
+
+.products-btn {
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
+}
+
+.card1 {
+  width: 600px;
+  height: 812px;
+  border: 1px solid #685a5230;
+  margin-top: 50px;
+}
+
+.card2 {
+  width: 600px;
+  height: 812px;
+  border: 1px solid #685a5230;
+  margin-top: 50px;
+  margin-left: 650px;
+  margin-top: -815px;
+}
+
+.card1 h2 {
+  font-size: 35px;
+  line-height: 70px;
+  margin-left: 30px;
+}
+
+.card2 h2 {
+  font-size: 35px;
+  line-height: 70px;
+  margin-left: 30px;
+}
+
+.card1 p {
+  width: 513px;
+  height: 96px;
+  line-height: 32px;
+  color: #555555;
+  font-weight: 400;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: -20px;
+}
+
+.card2 p {
+  width: 513px;
+  height: 96px;
+  line-height: 32px;
+  color: #555555;
+  font-weight: 400;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: -20px;
+}
+
+.card-actions1 {
+  width: 148px;
+  height: 56px;
+  color: white;
+  background: #402f2c;
+  margin-left: 20px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.card-actions1 button {
+  color: white;
+}
+
+.card-actions2 {
+  width: 148px;
+  height: 56px;
+  color: white;
+  background: #402f2c;
+  margin-left: 20px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.card-actions2 button {
+  color: white;
+}
+
+.card-action1 {
+  width: 162px;
+  height: 56px;
+  border: 1px solid #685a5275;
+  margin-left: 190px;
+  margin-top: -57px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.card-action2 {
+  width: 162px;
+  height: 56px;
+  border: 1px solid #685a5275;
+  margin-left: 190px;
+  margin-top: -57px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.card-span1 {
+  width: 64px;
+  height: 32px;
+  font-weight: 500;
+  font-size: 30px;
+  color: #222222;
+  margin-left: 500px;
+  margin-bottom: 100px;
+  margin-top: -55px;
+}
+
+.card-span2 {
+  width: 64px;
+  height: 32px;
+  font-weight: 500;
+  font-size: 30px;
+  color: #222222;
+  margin-left: 500px;
+  margin-bottom: 100px;
+  margin-top: -55px;
+}
