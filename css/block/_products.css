@@ -36,11 +36,14 @@
   column-gap: 8px;
 }
 
+.products-box {
+  display: flex;
+}
+
 .card1 {
   width: 600px;
   height: 812px;
   border: 1px solid #685a5230;
-  margin-top: 50px;
 }
 
 .card2 {
@@ -48,8 +51,6 @@
   height: 812px;
   border: 1px solid #685a5230;
   margin-top: 50px;
-  margin-left: 650px;
-  margin-top: -815px;
 }
 
 .card1 h2 {
@@ -71,8 +72,6 @@
   color: #555555;
   font-weight: 400;
   font-size: 20px;
-  margin-left: 30px;
-  margin-top: -20px;
 }
 
 .card2 p {
@@ -159,3 +158,4 @@
   margin-bottom: 100px;
   margin-top: -55px;
 }
+
